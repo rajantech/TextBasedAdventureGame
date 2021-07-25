@@ -1,0 +1,8 @@
+public interface playerData {
+    /**
+     *  Just a Method Declaration in interface, which Will be Used in class that will implement this interface.
+     *
+     */
+    public void setPlayerData();
+
+}
